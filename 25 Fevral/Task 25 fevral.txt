@@ -1,0 +1,22 @@
+1. Company adli database yaradin.
+
+Employee ve Departments tablelari  yaradin. Aralarinda One to many relation olsun.
+
+
+A) Employee ve ona uygun Departmenti geri veren Query yazin.
+
+----------------------------------------------------------------------------------
+
+2. Market adli database
+
+Satici ve Musteri tablelari yaradin. Her ikisinde Filial adinda Table var.
+
+Aralarinda many to many relation olsun
+
+A) Eyni filiala aid Satici ve musterileri geri qaytarin
+
+ Saticinin adi, satish columnu var ve satdigi mehsullarin meblegini gosterir (4regemli mebleg olsun)
+ Alicinin adi, alish columnu var ve etdiyi bazarligin toplam meblegini gosterir (4regemli mebleg olsun)
+
+B) Saticinin satish meblegi artan sira ile geri qayitsin
+C) Alicinin alish meblegi azalan sira ile geri qayitsin
