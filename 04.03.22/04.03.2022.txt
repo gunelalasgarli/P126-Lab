@@ -1,0 +1,11 @@
+Lab linkinden templatei goture bilersiniz.
+
+Bu 3 sehifeni front to back edin:
+
+Index(Home Version 1),
+Shop left side bar,
+Product details
+
+Ayaggabilarin adlarini, qiymetlerini ve shekilleri teshkil eden regemleri  bir listde saxlayin ve hemin listi viewda 
+foreacha salib adlari uygun yere yazdirin
+
