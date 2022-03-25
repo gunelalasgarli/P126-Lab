@@ -18,6 +18,9 @@ namespace Lab_P126.Data
         public virtual DbSet<Product> Products { get; set; }
         public virtual DbSet<Service> Services { get; set; }
         public virtual DbSet<Banner> Banners { get; set; }
+        public virtual DbSet<Settings> Settings { get; set; }
+        public virtual DbSet<SettingService> SettingServices { get; set; }
+        public virtual DbSet<Category> Categories { get; set; }
     }
 
 }

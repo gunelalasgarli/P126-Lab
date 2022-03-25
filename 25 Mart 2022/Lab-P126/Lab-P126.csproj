@@ -6,8 +6,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\AdminArea\Data\**" />
+    <Compile Remove="Areas\AdminArea\Models\**" />
+    <Content Remove="Areas\AdminArea\Data\**" />
+    <Content Remove="Areas\AdminArea\Models\**" />
+    <EmbeddedResource Remove="Areas\AdminArea\Data\**" />
+    <EmbeddedResource Remove="Areas\AdminArea\Models\**" />
+    <None Remove="Areas\AdminArea\Data\**" />
+    <None Remove="Areas\AdminArea\Models\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="Migrations\20220311063922_AddCreatedServiceTable.cs" />
     <Compile Remove="Migrations\20220311063922_AddCreatedServiceTable.Designer.cs" />
+    <Compile Remove="Migrations\20220325064010_CreateSettingServiceTable.cs" />
+    <Compile Remove="Migrations\20220325064010_CreateSettingServiceTable.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

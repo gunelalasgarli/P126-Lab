@@ -148,3 +148,9 @@ C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Lab-P126.csproj.Copy
 C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Lab-P126.dll
 C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Lab-P126.pdb
 C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Lab-P126.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Index.cshtml.g.cs
+C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\source\repos\Lab-P126\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewStart.cshtml.g.cs
