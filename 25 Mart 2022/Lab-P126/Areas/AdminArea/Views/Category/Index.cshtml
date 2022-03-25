@@ -1,17 +1,30 @@
 ﻿@model List<Category>
 
-<table>
-    <tr>
-        <th>Id</th>
-        <th>Name</th>
-    </tr>
+<section class="content">
 
-    @foreach (var category in Model)
-    {
-        <tr>
-            <th>@category.Id</th>
-            <th>@category.Name</th>
-        </tr>
-    }
+    <!-- Default box -->
+    <div class="card">
+        <div class="card-head">
+            <h4 class="card-title">Categories</h4>
+            <a asp-action="Create" class="btn btn-outline-success">Add Category</a>
+        </div>
 
-</table>
+        <table class="table table-striped projects">
+            <tbody>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                </tr>
+
+                @foreach (var category in Model)
+                {
+                    <tr>
+                        <th>@category.Id</th>
+                        <th>@category.Name</th>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+   
